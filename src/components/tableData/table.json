@@ -1,0 +1,1470 @@
+[
+    {"id":"1","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Airi Satou","position":"Accountant","office":"Tokyo" , "age":"33" ,"date": "11/28/2008", "salary": " $162,700", "chartData": [{ "name": "January", "Total": 1200 },
+    { "name": "February", "Total": 2100 },
+    { "name": "March", "Total": 800 },
+    { "name": "April", "Total": 1600 },
+    { "name": "May", "Total": 900 },
+    { "name": "June", "Total": 1700 }]},
+    {"id":"2","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Angelica Ramos","position":"Chief Executive Officer (CEO)","office":"London" , "age":"47" ,"date":"10/9/2009" , "salary":"$1,200,000", "chartData": [
+            {
+                "name": "January",
+                "Total": 1100
+            },
+            {
+                "name": "February",
+                "Total": 2200
+            },
+            {
+                "name": "March",
+                "Total": 1800
+            },
+            {
+                "name": "April",
+                "Total": 600
+            },
+            {
+                "name": "May",
+                "Total": 200
+            },
+            {
+                "name": "June",
+                "Total": 2700
+            }
+        ]
+    },
+    {"id":"3","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Ashton Cox","position":"Junior Technical Author","office": "San Francisco", "age":"66" ,"date":"1/12/2009" , "salary":"$86,000", "chartData": [
+        {
+            "name": "January",
+            "Total": 1500
+        },
+        {
+            "name": "February",
+            "Total": 2700
+        },
+        {
+            "name": "March",
+            "Total": 900
+        },
+        {
+            "name": "April",
+            "Total": 1600
+        },
+        {
+            "name": "May",
+            "Total": 4200
+        },
+        {
+            "name": "June",
+            "Total": 5700
+        }
+    ]},
+    {"id":"4","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Bradley Greer","position":"Software Engineer","office":"London" , "age":"41" ,"date":"10/13/2012" , "salary":"$132,000", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"5","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Brenden Wagner","position":"Software Engineer","office":"San Francisco" , "age":"28" ,"date":"6/7/2011" , "salary":"$206,850", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"6","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Brielle Williamson","position":"Integration Specialist","office":"New York" , "age":"61" ,"date":"12/2/2012" , "salary":"$372,000", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"7","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Bruno Nash","position":"Software Engineer","office":"London" , "age":"38" ,"date":"5/3/2011" , "salary":" $163,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"8","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Caesar Vance","position":"Pre-Sales Support","office":"New York" , "age":"21" ,"date":"12/12/2011" , "salary":" $106,450", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"9","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Cara Stevens","position":"Sales Assistant","office":"New York" , "age":"46" ,"date":"12/6/2011" , "salary":"$145,600", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"10","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Cedric Kelly","position":"Senior Javascript Developer","office":"Edinburgh" , "age":"22" ,"date":"3/29/2012" , "salary":"$433,060", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+
+    {"id":"11","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Charde Marshall","position":"Regional Director","office":"San Francisco" , "age":"36" ,"date":"10/16/2008" , "salary":"$470,600", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"12","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Colleen Hurst","position":"Javascript Developer","office":"San Francisco" , "age":"39" ,"date":"9/15/2009", "salary":" $205,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"13","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Dai Rios","position":"Personnel Lead","office":"Edinburgh" , "age":"35" ,"date":"9/26/2012" , "salary":" $217,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"14","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Donna Snider","position":"Customer Support","office":"New York" , "age":"27" ,"date":"1/25/2011" , "salary":"$112'000", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"15","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Doris Wilder","position":"Sales Assistant","office":"Sydney" , "age":"23" ,"date":"9/20/2010" , "salary":" $85,600", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"16","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Finn Camacho","position":"Support Engineer","office":"San Francisco" , "age":"47" ,"date":"7/7/2009" , "salary":"$87,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"17","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Fiona Green","position":"Chief Operating Officer (COO)","office":"San Francisco" , "age":"48" ,"date":"3/11/2010" , "salary":"$850,000", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"18","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Garrett Winters","position":"Accountant","office":"Tokyo" , "age":"63" ,"date":"7/25/2011" , "salary":" $170,750", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"19","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Gavin Cortez","position":"Team Leader","office": "San Francisco", "age":"22" ,"date":"10/26/2008" , "salary":"$235,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"20","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Gavin Joyce","position":"Developer","office":"Edinburgh" , "age":"42" ,"date":"12/22/2010" , "salary":" $92,575", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+
+    {"id":"21","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Gloria Little","position":"Systems Administrator","office":"New York" , "age":"59" ,"date":"4/10/2009", "salary":" $237,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"22","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Haley Kennedy","position":"Senior Marketing Designer","office":"London" , "age":"43" ,"date":"12/18/2012" , "salary":"$313,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"23","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Hermione Butler","position":"Regional Director","office":"London" , "age":"47" ,"date":"3/21/2011" , "salary":" $356,250", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"24","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Herrod Chandler","position":"Sales Assistant","office":"San Francisco", "age":"59" ,"date":"8/6/2012" , "salary":" $137,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"25","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Hope Fuentes","position":"Secretary","office": "San Francisco", "age":"41" ,"date":"2/12/2010" , "salary":" $109,850", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"26","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Howard Hatfield","position":"Office Manager","office":"San Francisco" , "age":"51" ,"date":"12/16/2008" , "salary":" $164,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"27","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Jackson Bradshaw","position":"Director","office":"New York" , "age":"65" ,"date":"9/26/2008" , "salary":" $645,750", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"28","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Jena Gaines","position":"Office Manager","office":"London" , "age":"30" ,"date":"12/19/2008" , "salary":" $90,560", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"29","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Jenette Caldwell","position":"Development Lead","office":"New York" , "age":"30" ,"date":"9/3/2011" , "salary":"$345,000", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"30","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Jennifer Acosta","position":"Junior Javascript Developer","office":"Edinburgh" , "age":"43" ,"date":"2/1/2013", "salary":"$75,650", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+ 
+    {"id":"31","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Jennifer Chang","position":"Regional Director","office":"Singapore" , "age":"28" ,"date":"11/14/2010" , "salary":"$357,650", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"32","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Jonas Alexander","position":"Developer","office":"San Francisco" , "age":"30" ,"date":"7/14/2010" , "salary":"$86,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"33","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Lael Greer","position":"Systems Administrator","office":"London" , "age":"21" ,"date":"2/27/2009" , "salary":"$103,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"34","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Martena Mccray","position":"Post-Sales support","office":"Edinburgh" , "age":"46" ,"date":"3/9/2011" , "salary":"$324,050", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"35","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Michael Bruce","position":"Javascript Developer","office":"Singapore" , "age":"29" ,"date":"6/27/2011" , "salary":" $183,000", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"36","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Michael Silva","position":"Marketing Designer","office":"London" , "age":"66" ,"date":"11/27/2012" , "salary":"$198,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"37","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Michelle House","position":"Integration Specialist","office":"Sydney", "age":"37" ,"date":"6/2/2011" , "salary":"$95,400", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"38","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Olivia Liang","position":"Support Engineer","office":"Singapore", "age":"64" ,"date":"2/3/2011", "salary":" $234,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"39","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Paul Byrd","position":"Chief Financial Officer (CFO)","office":"New York", "age":"64" ,"date":"6/9/2010" , "salary":" $725,000", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"40","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Prescott Bartlett","position":"Technical Author","office":"London" , "age":"27" ,"date":"5/7/2011" , "salary":" $145,000", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    
+    {"id":"41","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Quinn Flynn","position":"Support Lead","office":"Edinburgh" , "age":"22" ,"date":"3/3/2013", "salary":"$342,000", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"42","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Rhona Davidson","position":"Integration Specialist","office":"Tokyo" , "age":"55" ,"date":"10/14/2010" , "salary":"$327,900", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"43","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Sakura Yamamoto","position":"Support Engineer","office":"Tokyo" , "age":"37" ,"date":"8/19/2009", "salary":" $139,575", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"44","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Serge Baldwin","position":"Data Coordinator","office":"Singapore" , "age":"64" ,"date":"4/9/2012" , "salary":" $138,575", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"45","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Shad Decker","position":"Regional Director","office":"Edinburgh", "age":"51" ,"date":"11/13/2008" , "salary":" $183,000", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"46","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Shou Itou","position":"Regional Marketing","office":"Tokyo" , "age":"20" ,"date":"8/14/2011" , "salary":"$163,000", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"47","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Sonya Frost","position":"Software Engineer","office":"Edinburgh" , "age":"23" ,"date":"12/13/2008" , "salary":"$103,600", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"48","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Suki Burks","position":"Developer","office":"London" , "age":"53" ,"date":"10/22/2009" , "salary":"$114,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"49","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Tatyana Fitzpatrick","position":"Regional Director","office":"New York" , "age":"19" ,"date":"3/17/2010", "salary":"$385,750", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"50","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Thor Walton","position":"Developer","office":"New York" , "age":"61" ,"date":"8/11/2013" , "salary":"$98,540", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    
+    {"id":"51","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Tiger Nixon","position":"System Architect","office":"Edinburgh" , "age":"61" ,"date":"4/25/2011" , "salary":"$320,800", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"52","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Timothy Mooney","position":"Office Manager","office":"London" , "age":"37" ,"date":"12/11/2008" , "salary":"$136,200", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"53","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Unity Butler","position":"Marketing Designer","office":"San Francisco" , "age":"47" ,"date":"12/9/2009" , "salary":"$85,675", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"54","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Vivian Harrell","position":"Financial Controller","office":"San Francisco" , "age":"62" ,"date":"2/14/2009", "salary":"$452,500", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"55","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Yuri Berry","position":"Chief Marketing Officer (CMO)","office":"New York" , "age":"40" ,"date":"6/25/2009" , "salary":"$675,000", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"56","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Zenaida Frank","position":"Software Engineer","office":"New York" , "age":"63" ,"date":"1/4/2010" , "salary":"$125,250", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]},
+    {"id":"57","img": "https://images.unsplash.com/photo-1706565026381-29cd21eb9a7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D","name":"Zorita Serrano","position":"Software Engineer","office":"San Francisco" , "age":"56" ,"date":"6/1/2012" , "salary":"$115,000", "chartData": [
+        {
+            "name": "January",
+            "Total": 3500
+        },
+        {
+            "name": "February",
+            "Total": 2100
+        },
+        {
+            "name": "March",
+            "Total": 700
+        },
+        {
+            "name": "April",
+            "Total": 500
+        },
+        {
+            "name": "May",
+            "Total": 200
+        },
+        {
+            "name": "June",
+            "Total": 1500
+        }
+    ]}
+]

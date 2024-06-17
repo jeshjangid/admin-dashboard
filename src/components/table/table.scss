@@ -1,0 +1,185 @@
+.table {
+    &::-webkit-scrollbar-track {
+        /* background-color: transparent; */
+        background-color: #00000010;
+        height: 5px;
+    }
+    
+    &::-webkit-scrollbar {
+        width: 5px;
+        border-radius: 2px;
+        height: 5px;
+    }
+    
+    &::-webkit-scrollbar-thumb {
+        background: #7451f8;
+        border-radius: 2px;
+        height: 5px;
+    }
+
+    display: flex;
+    justify-content: center;
+    --bs-table-color: gray;
+    --bs-table-bg: white;
+
+        th{
+            color: gray;
+        }
+        tr{
+            td{
+            color: gray;
+            }
+        }
+    a{
+        text-decoration: none;
+    }
+    .cellWrapper {
+        display: flex;
+        align-items: center;
+
+        .image {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            margin-right: 10px;
+            object-fit: cover;
+        }
+    }
+
+    .status {
+        padding: 5px;
+        border-radius: 5px;
+
+        &.Approved {
+            color: green;
+            background-color: rgba(0, 128, 0, 0.151);
+        }
+
+        &.Pending {
+            color: goldenrod;
+            background-color: rgba(189, 189, 3, 0.103);
+        }
+    }
+}
+.table-black {
+    &::-webkit-scrollbar-track {
+        background-color: #00000010;
+        height: 5px;
+    }
+    
+    &::-webkit-scrollbar {
+        width: 5px;
+        height: 5px;
+        border-radius: 2px;
+    }
+    
+    &::-webkit-scrollbar-thumb {
+        background: #7451f8;
+        height: 5px;
+        border-radius: 2px;
+    }
+
+    display: flex;
+    justify-content: center;
+    --bs-table-bg: white;
+    --bs-table-color: gray;
+
+    th{
+        color: gray;
+    }
+    tr{
+        td{
+        color: gray;
+        }
+    }
+
+    a{
+        text-decoration: none;
+    }
+    .cellWrapper {
+        display: flex;
+        align-items: center;
+
+        .image {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            margin-right: 10px;
+            object-fit: cover;
+        }
+    }
+
+    .status {
+        padding: 5px;
+        border-radius: 5px;
+
+        &.Approved {
+            color: green;
+            background-color: rgba(0, 128, 0, 0.151);
+        }
+
+        &.Pending {
+            color: goldenrod;
+            background-color: rgba(189, 189, 3, 0.103);
+        }
+    }
+}
+
+
+@media screen and (max-width: 880px) {
+    .table {
+        display: flex;
+    justify-content: start;
+        max-width: 6000px;
+        overflow-x: scroll;
+    }
+}
+@media screen and (max-width: 815px) {
+    .table {
+        max-width: 570px;
+        overflow-x: scroll;
+    }
+}
+@media screen and (max-width: 735px) {
+    .table {
+        max-width: 540px;
+        overflow-x: scroll;
+    }
+}
+@media screen and (max-width: 705px) {
+    .table {
+        max-width: 500px;
+        overflow-x: scroll;
+    }
+}
+@media screen and (max-width: 660px) {
+    .table {
+        max-width: 450px;
+        overflow-x: scroll;
+    }
+}
+@media screen and (max-width: 610px) {
+    .table {
+        max-width: 400px;
+        overflow-x: scroll;
+    }
+}
+@media screen and (max-width: 560px) {
+    .table {
+        max-width: 360px;
+        overflow-x: scroll;
+    }
+}
+@media screen and (max-width: 520px) {
+    .table {
+        max-width: 300px;
+        overflow-x: scroll;
+    }
+}
+@media screen and (max-width: 460px) {
+    .table {
+        max-width: 250px;
+        overflow-x: scroll;
+    }
+}
+
